@@ -2,7 +2,7 @@
 
 Electrical Engineer • AI Researcher • Computer Vision Engineer • Deep Learning Enthusiast
 
-[LinkedIn](http://www.linkedin.com/in/mhamzaishaq) • [Google Scholar](https://scholar.google.com/citations?user=zaVxotAAAAAJ\&hl=en) • [Email](mailto\:hmhamza22e@gmail.com)
+[LinkedIn](http://www.linkedin.com/in/mhamzaishaq) • [Google Scholar](https://scholar.google.com/citations?user=zaVxotAAAAAJ\&hl=en) • [Email](mailto\:hamza.ishaq@sundarstem.edu.pk)
 
 ---
 
@@ -294,9 +294,9 @@ Worked on:
 
 # 🤝 Connect With Me
 
-- LinkedIn: [http://www.linkedin.com/in/mhamzaishaq](http://www.linkedin.com/in/mhamzaishaq)
-- Google Scholar: [https://scholar.google.com/citations?user=zaVxotAAAAAJ&hl=en](https://scholar.google.com/citations?user=zaVxotAAAAAJ\&hl=en)
-- Email: [hamza.ishaq@sundarstem.edu.pk](mailto\:hamza.ishaq@sundarstem.edu.pk) 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](http://www.linkedin.com/in/mhamzaishaq)
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="16"/> [Google Scholar](https://scholar.google.com/citations?user=zaVxotAAAAAJ&hl=en)
+- 🆔 ORCID: [0009-0002-4411-2656](https://orcid.org/0009-0002-4411-2656)
 
 ---
 
