@@ -295,7 +295,7 @@ Worked on:
 # 🤝 Connect With Me
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](http://www.linkedin.com/in/mhamzaishaq)
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="16"/> [Google Scholar](https://scholar.google.com/citations?user=zaVxotAAAAAJ&hl=en)
+- Google Scholar: [https://scholar.google.com/citations?user=zaVxotAAAAAJ&hl=en](https://scholar.google.com/citations?user=zaVxotAAAAAJ\&hl=en)
 - 🆔 ORCID: [0009-0002-4411-2656](https://orcid.org/0009-0002-4411-2656)
 
 ---
