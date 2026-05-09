@@ -274,13 +274,11 @@ Worked on:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafiz22e&show_icons=true&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafiz22e&show_icons=true&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz22e&layout=compact&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz22e&layout=compact&theme=github_dark" />
 
 </div>
-
-
 
 
 ---
