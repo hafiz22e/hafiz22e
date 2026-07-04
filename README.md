@@ -1,6 +1,6 @@
 # Muhammad Hamza Ishaq 👋
 
-Electrical Engineer • AI Researcher • Computer Vision Engineer • Deep Learning Enthusiast
+Electrical Engineer • AI Researcher • Computer Vision Engineer • Deep Learning • BioMedical/Medical Image Analysis
 
 [LinkedIn](http://www.linkedin.com/in/mhamzaishaq) • [Google Scholar](https://scholar.google.com/citations?user=zaVxotAAAAAJ\&hl=en) • [Email](mailto\:hamza.ishaq@sundarstem.edu.pk)
 
